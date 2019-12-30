@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "699195914322",
+    "firebase_url": "https://bab-usu.firebaseio.com",
+    "project_id": "bab-usu",
+    "storage_bucket": "bab-usu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699195914322:android:c6dbc10eba2098dad9078b",
+        "android_client_info": {
+          "package_name": "com.usu.babusu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699195914322-t18gc1h1r558fnc9cdpe39734nep88d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.usu.babusu",
+            "certificate_hash": "22aede9391c0db874266b866fa1aaeaf0b7b2046"
+          }
+        },
+        {
+          "client_id": "699195914322-ib17onqi6gn740ukcrlh828v9teggm4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPZBvakVueySBPmFK8Jhqjq3GhZUZBC_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699195914322-ib17onqi6gn740ukcrlh828v9teggm4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
